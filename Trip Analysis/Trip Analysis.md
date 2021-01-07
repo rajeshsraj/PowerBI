@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Trip Analysis</title>
+	
 </head>
 <body>
 <p style="text-align: center;"><span style="text-decoration: underline; color: #003366;"><strong>TRIP ANALYSIS</strong></span></p>
